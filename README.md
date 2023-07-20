@@ -3,7 +3,7 @@
 
 - ✨ Pronouns: **she/her**
 
-- 🌱 I’m currently learning **full-stack web development**
+- 🌱 I’m currently learning **full-stack web development with Meta**
 
 - 🔭 I’m currently working with [Develop for Good](https://www.developforgood.org/?gclid=CjwKCAjwtuOlBhBREiwA7agf1nY_VKiLCge1XFAQPf036cFdM1epkR1Etohh35-AnDj0YDQhHGUY1BoCEnsQAvD_BwE)
 
