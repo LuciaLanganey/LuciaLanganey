@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Devpost Project Portfolio can be found at [Devpost](https://devpost.com/langaneylucia03)
 
-- 📫 How to reach me **langaney@stanford.edu**
+- 📫 Reach me at **langaney@stanford.edu**
 
 - ⚡ Fun fact: **My dog and I share birthdays!**
 
